@@ -44,7 +44,7 @@ Follow these steps to set up and run the Click and Test app on your device:
 
 1. Clone the Repository:
 ```git
-git clone https://github.com/yourusername/click-and-test.git
+git clone https://github.com/shivam-1810/Click_And_Test-App.git
 cd clickAndTest
 ```
 2. Install Dependencies:
